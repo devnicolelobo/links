@@ -241,6 +241,7 @@ img {
   font-size: 15px;
   font-weight: 600;
   line-height: 1.3;
+  color: #111827;
 }
 
 .link-subtitle {
@@ -297,6 +298,7 @@ img {
 
 .link-button--soon .link-title {
   font-weight: 500;
+  color: #111827;
 }
 
 .link-button--soon .link-subtitle {
