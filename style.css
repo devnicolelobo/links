@@ -102,8 +102,9 @@ img {
   margin: 0;
   font-size: 14.5px;
   font-weight: 400;
-  color: #6b7280;
+  color: #4b5563;
   line-height: 1.5;
+  text-align: center;
 }
 
 /* =========================
@@ -117,14 +118,9 @@ img {
 .intro-text {
   margin: 0;
   font-size: 14px;
-  color: #374151;
+  color: #4b5563;
   line-height: 1.6;
-}
-
-@media (min-width: 768px) {
-  .intro-text {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 /* =========================
