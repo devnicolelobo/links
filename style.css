@@ -285,6 +285,11 @@ img {
   color: #111827;
 }
 
+.link-icon--rocketseat {
+  background-color: #7c3aed;
+  color: #ffffff;
+}
+
 .link-icon--soon {
   background-color: #f3f4f6;
   color: #4b5563;
