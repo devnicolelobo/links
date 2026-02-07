@@ -290,6 +290,11 @@ img {
   color: #ffffff;
 }
 
+.link-icon--borderless {
+  background-color: #0f766e;
+  color: #ffffff;
+}
+
 .link-icon--soon {
   background-color: #f3f4f6;
   color: #4b5563;
