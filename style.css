@@ -280,6 +280,11 @@ img {
   color: #f9fafb;
 }
 
+.link-icon--email {
+  background-color: #f3f4f6;
+  color: #111827;
+}
+
 .link-icon--soon {
   background-color: #f3f4f6;
   color: #4b5563;
