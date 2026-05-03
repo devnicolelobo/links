@@ -305,14 +305,14 @@ img {
 }
 
 .link-icon--aws {
-  background-color: #111921;
+  background-color: #232f3e;
   color: #ffffff;
-  padding: 2px;
+  padding: 3px;
 }
 
 .link-icon--aws img {
-  width: 22px;
-  max-height: 15px;
+  width: 24px;
+  max-height: 24px;
   height: auto;
   object-fit: contain;
 }
