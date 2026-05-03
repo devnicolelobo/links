@@ -249,6 +249,23 @@ img {
   line-height: 1.5;
 }
 
+.link-subtitle--with-flag {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.link-subtitle-flag {
+  flex-shrink: 0;
+  width: 1.15em;
+  height: auto;
+  aspect-ratio: 19 / 10;
+  vertical-align: middle;
+  border-radius: 1px;
+  box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.08);
+}
+
 .link-button--secondary .link-subtitle {
   color: #4b5563;
 }
