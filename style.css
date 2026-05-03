@@ -313,11 +313,16 @@ img {
 }
 
 .link-icon--aws {
-  background-color: #232f3e;
-  color: #ff9900;
-  font-size: 9px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
+  background-color: #111921;
+  color: #ffffff;
+  padding: 2px;
+}
+
+.link-icon--aws img {
+  width: 22px;
+  max-height: 15px;
+  height: auto;
+  object-fit: contain;
 }
 
 .link-icon--soon {
